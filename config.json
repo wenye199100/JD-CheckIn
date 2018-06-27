@@ -6,5 +6,9 @@
   "driver": {
     "path": "b",
     "type": "chrome"
+  },
+  "url":{
+    "login":"a",
+    "erp":"b"
   }
 }
