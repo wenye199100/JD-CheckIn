@@ -1,0 +1,10 @@
+{
+  "personal-info": {
+    "erp-account": "b",
+    "erp-password": "d"
+  },
+  "driver": {
+    "path": "b",
+    "type": "chrome"
+  }
+}
